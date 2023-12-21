@@ -11,7 +11,7 @@ import 'package:untitled/Pages/PartsPage.dart';
 import 'Pages/InfoPage.dart';
 import 'package:http/http.dart' as http;
 
-  final String IP="192.168.52.1";
+  final String IP="192.168.100.4";
   List<OrdJ> InfoOrd = <OrdJ>[];
 
 
